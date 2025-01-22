@@ -1,0 +1,42 @@
+213983
+Jaeyun Sim 
+125000.50
+Software Engineering
+Full-Stack Developer
+4
+132483
+Sunghoon Park 
+89750.00
+Guest Engagement
+Department Coordinator
+4
+498532
+Ash Rivera
+91500.00
+Human Resources
+Recruiter
+2
+097873
+Joshua Hong
+180350.00
+Finance
+Associate Financial Analyst
+7
+423454
+Taehyung Kim
+100500.00
+Marketing
+Digital Media Manager
+3
+342354
+Heeseung Lee
+135000.75
+Information Technology
+Technology Specialist
+6
+785932
+Jongseong Park
+180000.00
+Finance
+Payroll Manager
+5
